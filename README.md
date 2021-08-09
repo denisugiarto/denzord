@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ReactJs, ExpressJs, MongoDB, NodeJs
 - 👯 I’m looking to collaborate on ReactJs
-- 🤔 I’m looking for help with NodeJs
 - 💬 Ask me about ReactJs
 <!--
 **denzord/denzord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
